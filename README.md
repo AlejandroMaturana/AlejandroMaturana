@@ -1,6 +1,10 @@
 <div align="center">
 
-# 👨‍💻 Manuel González Lozano 👋
+<h1>👨‍💻 Manuel González Lozano 👋</h1>
+
+<h3>Desarrollador de APIs • Creador de KPIs • Reductor de WTFs</h3>
+
+---
 
 ⚙️ Ingeniero Industrial — Desarrollador Full Stack JS
 
@@ -8,11 +12,9 @@
 
 🎯 ***Interés***: Backend Systems — Data Modeling — API Design
 
-<h4>😎_Desarrollador de APIs, Creador de KPIs, Reductor de WTFs_😎</h4>
-
 ---
 
-## 🧩 Stack Tecnológico
+## 🧰 Artimañas que uso
 
 🛠️ **Backend:** 
 ![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?logo=node.js&logoColor=white)
