@@ -38,13 +38,13 @@
 
 ## 🧠 Objetivos a dominar 2026 🧠
 
-[ ] Backend architecture
+- [ ] Backend architecture
 
-[ ] API REST design
+- [ ] API REST design
 
-[ ] Data modeling (SQL / NoSQL)
+- [ ] Data modeling (SQL / NoSQL)
 
-[ ] Desarrollo de Aplicaciones web escalables
+- [ ] Desarrollo de Aplicaciones web escalables
 
 ## 📫 Conecta Conmigo 📫
 
